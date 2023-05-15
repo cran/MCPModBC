@@ -1,5 +1,6 @@
-4c57e383bec932aab7b6fab283e2eaa8 *DESCRIPTION
+d5e0461248fa82c0e6ee47175eaba080 *DESCRIPTION
 fb3d82267212212f121a1d344600eab2 *NAMESPACE
+66592cc9e24dc24fb5c6b37e5796e9c2 *NEWS.md
 036b07c237b6ec641c123cba266a7347 *R/beta_cox.R
 8911c612c1ff0aec8b9a5157c69c1c69 *R/beta_firth.R
 795d1ea125cf35bb264cd5fca4baf85f *R/data_generator.R
@@ -10,9 +11,9 @@ f211d5c173a8d10ba5051bc54db78bb2 *R/print.mcpmod_simulation.R
 7b08b498e653ee97780d63d6745dd1b6 *R/sigma.jackknife.R
 af0a5f4aa749ca828112d7eac8a1f381 *R/summary.mcpmod_simulation.R
 f790ce8fdf5c9d3db26c92d7fe4b6be2 *R/summary.weibreg.R
-5ca5c33d23d58c62a6ad127b36c22f4f *R/var_cox.R
+b042ff90f1441bde482fa819f17b3806 *R/var_cox.R
 9655649698a744a1d4e1135804aff7ce *R/var_firth.R
-c3e51133bd3cd25458d646047e2419ac *R/var_mle2.R
+33082c72cbef829e9d9f41c5aa067fba *R/var_mle2.R
 905782f9e3c503f2ba48748d6aab9c6f *R/weibfit.R
 61dc5e7e22e14572dfca3682222d7cc7 *man/data_generator.Rd
 6a5675680af53e45e66ab5e971d877b3 *man/mcpmod_simulation.Rd
